@@ -1,9 +1,9 @@
+# 🩺 MedPredict - Diabetes Risk Prediction App
+
 ![Python](https://img.shields.io/badge/python-3.10+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Deployed-green)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
-
-# 🩺 MedPredict - Diabetes Risk Prediction App
 
 MedPredict is a real-time machine learning web application designed to predict the risk of diabetes based on patient medical data. It provides a simple user interface for both manual input and CSV file upload to run predictions using trained ML models.
 
