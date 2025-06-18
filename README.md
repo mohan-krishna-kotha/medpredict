@@ -5,6 +5,8 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Last Commit](https://img.shields.io/github/last-commit/mohan-krishna-kotha/medpredict)](https://github.com/mohan-krishna-kotha/medpredict/commits/main)
 [![Open Issues](https://img.shields.io/github/issues/mohan-krishna-kotha/medpredict)](https://github.com/mohan-krishna-kotha/medpredict/issues)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/mohan-krishna-kotha/medpredict)
+
 
 MedPredict is a real-time machine learning web application designed to predict the risk of diabetes based on patient medical data. It provides a simple user interface for both manual input and CSV file upload to run predictions using trained ML models.
 
