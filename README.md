@@ -19,11 +19,25 @@ MedPredict is a real-time machine learning web application designed to predict t
 
 ## 📂 Sample CSV Format
 
+```
+Pregnancies,Glucose,BloodPressure,SkinThickness,Insulin,BMI,DiabetesPedigreeFunction,Age
+2,130,78,25,100,31.5,0.8,35
+5,115,70,30,150,28.9,0.4,45
+0,85,66,29,0,26.6,0.351,31
+```
 
 ---
 
 ## 📁 Project Structure
 
+```
+├── app.py
+├── diabetes_model.pkl
+├── requirements.txt
+├── test.csv
+├── diabetes.csv
+└── README.md
+```
 
 ---
 
@@ -41,6 +55,7 @@ MedPredict is a real-time machine learning web application designed to predict t
 ## 📈 Model Comparison
 
 This app compares the following classifiers using accuracy score:
+
 - ✅ Random Forest
 - ✅ Logistic Regression
 - ✅ K-Nearest Neighbors (KNN)
@@ -58,7 +73,7 @@ This app compares the following classifiers using accuracy score:
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/medpredict.git
+git clone https://github.com/mohan-krishna-kotha/medpredict.git
 cd medpredict
 
 # Install dependencies
@@ -66,34 +81,11 @@ pip install -r requirements.txt
 
 # Run the app
 streamlit run app.py
+```
 
 ---
-
-### 🔹 STEP 5: Scroll to the bottom of the page
-
-- In the **Commit changes** section:
-  - Write this in the message box:
-    ```
-    Add professional README.md
-    ```
-- Make sure the **“Commit directly to the main branch”** option is selected
-
----
-
-### 🔹 STEP 6: Click **"Commit new file"**
-
-✅ That's it! Now your repository will show the full formatted README on the homepage.
-
----
-
-Let me know when it’s done — or if you want:
-- Help adding a screenshot
-- Help writing a LinkedIn project post
-- A license file for open-source credit
-
-You're doing this like a professional developer now 👏💻
 
 ## 📸 Screenshot
 
-![App Screenshot](screenshot1.png)
-![App Screenshot](screenshot2.png)
+![App Screenshot 1](screenshot1.png)  
+![App Screenshot 2](screenshot2.png)
