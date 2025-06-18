@@ -92,3 +92,8 @@ Let me know when it’s done — or if you want:
 - A license file for open-source credit
 
 You're doing this like a professional developer now 👏💻
+
+## 📸 Screenshot
+
+![App Screenshot](screenshot1.png)
+![App Screenshot](screenshot2.png)
